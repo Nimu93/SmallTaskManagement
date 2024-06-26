@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/SmallTaskManagement/x64/Debug
+/SmallTaskManagement/.vs/SmallTaskManagement/v17
+/SmallTaskManagement/SmallTaskManagement/x64/Debug
