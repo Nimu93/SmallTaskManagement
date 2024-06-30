@@ -16,21 +16,20 @@ Clonez ce dépôt sur votre machine locale :
 ```bash
 git clone https://github.com/Nimu93/SmallTaskManagement.git
 cd SmallTaskManagement
-
-Compilation
+```
+## Compilation
 
 Utilisez MSBuild pour compiler le projet :
 
-bash
-
+```bash
 msbuild SmallTaskManagement.sln /p:Configuration=Release
-
+```
 
 Pour exécuter le programme, utilisez la commande suivante :
 
-bash
-
+```bash
 ./SmallTaskManagement
+```
 
 Cela affichera une liste de tous les processus en cours d'exécution avec leurs informations détaillées, telles que l'identifiant du processus (PID) et le nom du processus.
 
