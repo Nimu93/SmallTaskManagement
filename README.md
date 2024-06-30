@@ -1,5 +1,5 @@
 
-# Process Lister
+# Small Task Management
 
 Ce programme C++ liste tous les processus en cours d'exécution sur votre machine.
 
