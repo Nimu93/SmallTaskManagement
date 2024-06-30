@@ -34,11 +34,11 @@ Pour exécuter le programme, utilisez la commande suivante :
 Cela affichera une liste de tous les processus en cours d'exécution avec leurs informations détaillées, telles que l'identifiant du processus (PID) et le nom du processus.
 
 Exemple de sortie
-
+```bash
 Process ID: 0, Name: [System Process], Thread Count: 24, Parent Process ID: 0
 Process ID: 4, Name: System, Thread Count: 379, Parent Process ID: 0
 ...
-
+```
 Auteur
 
     GIBBE Valentin
